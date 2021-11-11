@@ -1,0 +1,26 @@
+yesterday i have connected to codex and codex product database in dbeaver and had discussion with subarna about the tables and how to fetch data. read about APIs and Azure devops. manjunath explained about codex functionality and azure servers, pipelines and deployment. then i went through codex document and codex test plan 
+
+Friday i had call with manjunath regarding codex functionality and tables associated to each page in dbeaber. 
+then i went through the co.dx api documenatation, co.dx indtallation on azure env and codex infra documents. 
+                                                                                                               
+I am Jaya Krishna from berhampur,odisha. 
+Completed graduation from Nationalinstitute of science and technology in ECE branch. 
+1+ years of experience in automation and manual testing.
+Joined mathco as anallyst for QA in october. 
+loves to do cooking, playing chess and sketching in my free time.       
+
+Hi i am jaya krishna, 
+Let me introduce my team member subarna dey,
+she is from Kolkata. She completed her B.Tech in ECE branch has Experienced in manual & automation testing. 
+She joined MathCo as QA in September and she is the first one among freshers to join co.dx. 
+Baking and watching web series is something she loves to do during her free time.   
+She has a helpful nature and has attended me whenenver i had any doubt or needed help.
+
+friday i have reported issues found in takeda and added the test cases in test trail. and was checking some pages to get differnt responses 
+using postman                            
+
+CD-537 - In Filter, After manually changing the end date less than begin date or giving wrong format in end date, error message doesn't show
+CD-536 - In Filter, Apply button should be inactive, when "invalid date format" error shows
+In generate schedule pop-up, no error message shows when user manually changes the start date greater than end date or when wrong date format is given
+In generate schedule pop-up - CIP dropdown details - Add note, user is not able to change start and end time manually, also no error shows when wrong date format is given or when start date is greater than end date.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
